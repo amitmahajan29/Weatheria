@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Web API Example</string>
+    <string name="weatherCity">Weather Details By City</string>
+    <string name="weatherLocation">Weather Details by Location</string>
+</resources>
